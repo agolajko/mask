@@ -96,4 +96,11 @@ height: 100%;
     width:6%;
     height:auto;
   }
+
+  h1 {
+    margin-bottom:10px
+    text-align: center;
+    font-size: 26px;
+    opacity: 1;
+  }
 }
